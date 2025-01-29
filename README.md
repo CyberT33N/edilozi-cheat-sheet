@@ -1,9 +1,5 @@
 # edilozi-cheat-sheet
 
-# Buttons
-- https://www.edilozi.pro/docs/components/buttons
-
-
 
 
 
